@@ -25,7 +25,6 @@ jobs:
           working-directory: .
 
   security:
-    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
