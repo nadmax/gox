@@ -24,7 +24,7 @@ See [CONTRIBUTING](https://github.com/nadmax/gox/blob/master/CONTRIBUTING.md) fi
 
 ## License
 
-This project is under [MIT License].
+This project is under [MIT License](https://github.com/nadmax/gox/blob/master/LICENSE).
 
 ## Resources
 
